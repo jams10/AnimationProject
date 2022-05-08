@@ -2,7 +2,7 @@
 #define WIN32_LEAN_AND_MEAN // 윈도우 헤더 파일에 딸려오는 사용하지 않을 헤더 파일들을 제외시켜줌.
 #define WIN32_EXTRA_LEAN
 
-#include "include/glad/glad.h"
+#include "glad/glad.h"
 #include <windows.h>
 #include <iostream>
 #include "Application.h"int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int);  // 윈도우 진입 함수.
