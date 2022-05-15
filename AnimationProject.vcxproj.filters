@@ -30,6 +30,12 @@
     <ClInclude Include="Source\Math\Vec3.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Vec2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\glad\glad.c">
